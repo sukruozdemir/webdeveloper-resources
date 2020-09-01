@@ -16,7 +16,7 @@
 | [devhints.io](https://devhints.io/) | Collection of Dev cheatsheets |
 | [wappalyzer.com](https://www.wappalyzer.com/) | Find out what websites are built with |
 | [getterms.io](https://getterms.io/) | Generate a custom Privacy Policy and Terms of Service statement for your website in minutes. |
-|[cloudflare.com](https://www.cloudflare.com/) | Free https and cdn |
+| [cloudflare.com](https://www.cloudflare.com/) | Free https and cdn |
 | [1loc.dev](https://1loc.dev/) | Favourite JavaScript single line code |
 | [awesome-python.com](https://awesome-python.com/) | A curated list of awesome Python frameworks, libraries, software and resources. |
 | [tablericons.com](https://tablericons.com/) | 634 Fully customizable free SVG icons. |
@@ -29,3 +29,8 @@
 | [drawkit.io](https://www.drawkit.io/) | Beautiful, free illustrations. |
 | [public-apis.io](https://public-apis.io/) | A Directory of Free Public & Open Rest APIs |
 | [css.gg](https://css.gg/) | Open-source CSS, SVG and Figma UI Icons Available in SVG Sprite, styled-components, NPM & AP |
+| [hackerrank.com](https://www.hackerrank.com/) | HackerRank is a technology hiring platform that is the standard for assessing developer skills for over 2,000+ companies around the world. By enabling tech recruiters and hiring managers to objectively evaluate talent at every stage of the recruiting process, HackerRank helps companies hire skilled developers and innovate faster. |
+| [sourcemaking.com](https://sourcemaking.com/) | I will tell you a lot of stories about good software architecture and teach you how to create it with design patterns. I will guide you through anti-patterns, common pitfalls and mistakes that people make when they plan, create, and manage software projects. In the end, I will teach you how to smell a bad code and improve it with refactoring. |
+| [dev.to](https://dev.to/) | DEV is a community of software developers getting together to help one another out. |
+| [developer.mozilla.org](https://developer.mozilla.org/en-US/) | Resources for developers, by developers |
+| [leetcode.com](https://leetcode.com/) | LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews. |

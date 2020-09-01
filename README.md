@@ -34,3 +34,54 @@
 | [dev.to](https://dev.to/) | DEV is a community of software developers getting together to help one another out. |
 | [developer.mozilla.org](https://developer.mozilla.org/en-US/) | Resources for developers, by developers |
 | [leetcode.com](https://leetcode.com/) | LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews. |
+| [https://ebookfoundation.github.io/free-programming-books/](https://ebookfoundation.github.io/free-programming-books/) | Free pgoramming books |
+| [freecodecamp.org](https://www.freecodecamp.org/) | Learn to code at home. Build projects. Earn certifications. |
+| [responsively.app](https://responsively.app/) | Dev tool for faster web development. A must-have DevTool for all Front-End developers that will make your job easier. |
+| [caniuse.com](https://caniuse.com/) | Browser support |
+| [colormind.io](http://colormind.io/) | Colormind is a color scheme generator that uses deep learning. It can learn color styles from photographs, movies, and popular art. |
+| [teachyourselfcode.io](https://teachyourselfcode.io/) | Learn to code for free |
+| [heroicons.dev](https://heroicons.dev/) | A set of free MIT-licensed high-quality SVG icons for you to use in your web projects. |
+| [latency.apex.sh](https://latency.apex.sh/) | Global latency testing tool |
+| [weworkremotely.com](https://weworkremotely.com/) | We Work Remotely is the largest remote work community in the world. With over 2.5M monthly visitors, WWR is the #1 destination to find and list incredible remote jobs. |
+| [unsplash.com](https://unsplash.com/) | The internet’s source of freely-usable images. Powered by creators everywhere. |
+| [css-tricks.com](https://css-tricks.com/) | Learn CSS |
+| [photopea.com](https://www.photopea.com/) | Online photo editor |
+| [fun-javascript-projects.com](https://fun-javascript-projects.com/) | A FREE series of fun Javascript, HTML & CSS projects |
+| [carbon.now.sh](https://carbon.now.sh/) | Create and share beautiful images of your source code. |
+| [animate.style](https://animate.style/) | A cross-browser library of CSS animations. As easy to use as an easy thing.  |
+| [roadmap.sh](https://roadmap.sh/) | Developer roadmaps. Step by step guides and paths to learn different tools or technologies |
+| [geeksforgeeks.org](https://www.geeksforgeeks.org/) | A computer science portal for geeks |
+| [2ality.com](https://2ality.com/index.html) | JavaScript and more |
+| [allitebooks.org](https://www.allitebooks.org/) | Free IT Books |
+| [developertoarchitect.com](https://developertoarchitect.com/) | Training and resources for the journey from software developer to software architect |
+| [ngrok.com](https://ngrok.com/) | Public URLs for exposing your local web server. |
+| [getkap.co](https://getkap.co/) | An open-source screen recorder built with web technology. |
+| [30secondsofcode.org](https://www.30secondsofcode.org) | Short code snippets for all your development needs |
+| [securitycheckli.st](https://securitycheckli.st/) | An open source checklist of resources designed to improve your online privacy and security. Check things off to keep track as you go. |
+| [gitmoji.carloscuesta.me](https://gitmoji.carloscuesta.me/) | An emoji guide for your commit messages |
+| [myliang.github.io/x-spreadsheet](https://myliang.github.io/x-spreadsheet/) | A web-based JavaScript（canvas) spreadsheet. Open source. |
+| [sundowndev.github.io/hacker-roadmap](https://sundowndev.github.io/hacker-roadmap/) | This repository is an overview of what you need to learn penetration testing and a collection of hacking tools, resources and references to practice ethical hacking. Most of the tools are UNIX compatible, free and open source. |
+| [github.com/ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | Clean Code concepts adapted for JavaScript |
+| [github.com/justinamiller/SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect) | Path to a Software Architect  |
+| [github.com/ossu/computer-science](https://github.com/ossu/computer-science) | Path to a free self-taught education in Computer Science! |
+| [github.com/jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
+| [cheatsheetseries.owasp.org](https://cheatsheetseries.owasp.org/) | The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics. These cheat sheets were created by various application security professionals who have expertise in specific topics. |
+| [github.com/lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) | A long list of (advanced) JavaScript questions, and their explanations |
+| [github.com/gothinkster/realworld](https://github.com/gothinkster/realworld) | "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more |
+| [github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [github.com/trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
+| [mgechev.github.io/javascript-algorithms](https://mgechev.github.io/javascript-algorithms/) | This repository contains JavaScript implementations of different famous Computer Science algorithms. |
+| [github.com/microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) | Microsoft REST API Guidelines |
+| [github.com/goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) | he Node.js best practices list |
+| [github.com/trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | Algorithms and data structures implemented in JavaScript with explanations and links to further readings  |
+| [30secondsofinterviews.org](https://30secondsofinterviews.org/) | A curated collection of common interview questions to help you prepare for your next interview. |
+| [awesome-scalability.com](http://awesome-scalability.com/) | The Patterns of Scalable, Reliable, and Performant Large-Scale Systems  |
+| [froala.com/design-blocks](https://froala.com/design-blocks) | Over 170 responsive design blocks ready to be used in your web or mobile apps. All blocks are based on the Bootstrap Library, and they are the building blocks for beautiful websites. |
+| [github.com/charlax/professional-programming](https://github.com/charlax/professional-programming) | A collection of full-stack resources for programmers.  |
+| [github.com/mmcgrana/services-engineering](https://github.com/mmcgrana/services-engineering) | A reading list for services engineering, with a focus on cloud infrastructure services |
+| [github.com/Developer-Y/Scalable-Software-Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture) | Collection of tech talks, papers and web links on Distributed Systems, Scalability and System Design.  |
+| [github.com/n0shake/Public-APIs](https://github.com/n0shake/Public-APIs) | A public list of APIs from round the web. |
+| [github.com/DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) | A curated list of software and architecture related design patterns. |
+| [github.com/dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) | A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development |
+| [github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome) | Awesome lists about all kinds of interesting topics |
+| [github.com/tuvtran/project-based-learning](https://github.com/tuvtran/project-based-learning) | Curated list of project-based tutorials |

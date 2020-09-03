@@ -85,3 +85,7 @@
 | [github.com/dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) | A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development |
 | [github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome) | Awesome lists about all kinds of interesting topics |
 | [github.com/tuvtran/project-based-learning](https://github.com/tuvtran/project-based-learning) | Curated list of project-based tutorials |
+| [daily.dev](https://daily.dev/) | News for Busy Developers |
+| [devdocs.io](https://devdocs.io/) | DevDocs combines multiple API documentations in a fast, organized, and searchable interface. |
+| [feathericons.com](https://feathericons.com/) | Simply beautiful open source icons |
+| [shortcode.dev](https://shortcode.dev/) | A collection of useful snippets and code examples for artisan blade cli css git html javascript laravel liquid markdown node php vue wordpress and more. |

@@ -89,3 +89,6 @@
 | [devdocs.io](https://devdocs.io/) | DevDocs combines multiple API documentations in a fast, organized, and searchable interface. |
 | [feathericons.com](https://feathericons.com/) | Simply beautiful open source icons |
 | [shortcode.dev](https://shortcode.dev/) | A collection of useful snippets and code examples for artisan blade cli css git html javascript laravel liquid markdown node php vue wordpress and more. |
+| [pages.github.com](https://pages.github.com/) | Websites for you and your projects. Hosted directly from your GitHub repository. Just edit, push, and your changes are live. |
+| [netlify.com](https://www.netlify.com/) | Netlify: All-in-one platform for automating modern web projects |
+| [surge.sh](https://surge.sh/) | Static web publishing for Front-End Developers |
